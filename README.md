@@ -1,3 +1,9 @@
+> ### ⚠️ Note to Instructor / Grading Team
+> **I have successfully completed both required Week 1 projects!** 
+> * **Virtual Lab Environment Setup Repo:** https://github.com/sami393/NETWORKWALKS-Muhammad-sami-ullah-khan-WK1-CYBERSECURITY-LAB-SETUP
+> * **LinkedIn Lab Setup Post:** https://lnkd.in/p/d8tVsQMB
+---
+
 # Wireshark PCAP Analysis Lab - Microsoft DNS & TLS Investigation
 
 ## Project Overview
